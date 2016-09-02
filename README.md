@@ -13,7 +13,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://github.com/AOKP/platform_manifest.git -b nougat
+    $ repo init -u https://github.com/NougatKang/platform_manifest.git -b nougat
 
 Sync the repository:
 
